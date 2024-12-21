@@ -11,3 +11,6 @@
 
 ## Streamlit App
 - [Streamlit Interface](https://diabetesprediction.up.railway.app/docs)
+
+## Docker
+- [https://hub.docker.com/repository/docker/shashankmankala/fastapi-diabetes-predict-app/general]

@@ -30,6 +30,15 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  sphinx:
+    extra_js:
+      - _static/documentation_options.js
+
 
 exclude:
   - references.bib
+
+launch_buttons:
+  binderhub_url: https://mybinder.org
+  thebe: true  # Just use a boolean value
+
