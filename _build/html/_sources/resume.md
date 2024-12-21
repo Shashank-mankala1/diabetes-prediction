@@ -68,7 +68,7 @@ Dec 2025 | Buffalo, United States
 ## Projects
 
 ### Diabetes Prediction using Machine Learning  
-**Dec 2024 – Present**  
+**Nov 2024 – Dec 2024**  
 
 - Built a complete end-to-end pipeline to predict diabetes based on health attributes like BMI, HbA1c level, blood glucose levels, and smoking history.
 - Developed and deployed the model using FastAPI, Docker, and Google Cloud Run, allowing real-time predictions.
@@ -77,7 +77,7 @@ Dec 2025 | Buffalo, United States
 - Logged and tracked experiments using MLFlow/DagsHub, and containerized the solution for scalable deployment.
 
 ### Heart Attack Prediction using Machine Learning  
-**Sep 2024 – Present**  
+**Sep 2024 – Dec 2024**  
 
 - Developed a predictive model to assess the likelihood of heart attacks using health and demographic data from a large dataset.
 - Utilized statistical techniques and machine learning algorithms such as Logistic Regression, Random Forest, and XGBoost to analyze factors like general health, physical activity, smoking status, and BMI.
